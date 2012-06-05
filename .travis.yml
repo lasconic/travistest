@@ -1,0 +1,2 @@
+before_install:
+  - "ls -la /etc/apt/sources.list.d/"
